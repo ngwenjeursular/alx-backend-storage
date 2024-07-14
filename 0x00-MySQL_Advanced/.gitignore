@@ -1,0 +1,11 @@
+# Ignore Vim swap files
+*.swp
+
+# to ignore compiled Python files:
+*.pyc
+
+# To ignore logs:
+*.log
+
+# To ignore temporary files:
+*.tmp
